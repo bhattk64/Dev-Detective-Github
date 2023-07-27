@@ -1,5 +1,9 @@
 A page that provides GitHub profile details for the user-name provided. Build using JS, CSS, and HTML.
 
+Links:
+
+https://bhattk64.github.io/Dev-Detective-Github/
+
 Features:
 
 Give GitHub profile details for the user-name entered - by using API
